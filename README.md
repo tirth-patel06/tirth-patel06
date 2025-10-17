@@ -14,21 +14,24 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-- 🎓 I’m a B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**.
-- 🔭 I’m currently building with **Express.js** and exploring the world of **Agentic AI**.
-- 🌱 I’m actively learning and building projects in **Backend Web Development** and **Machine Learning**.
-- 🤝 I'm open to collaborating on exciting **Full-Stack Web** or **AI/ML-based projects**.
-- 💬 Always happy to connect and learn together — feel free to reach out!
+- 🎓 B.Tech student at **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**.
+- 🔭 Currently building **AI-powered full-stack web platforms** integrating LLMs and intelligent agents.
+- 🌱 Exploring **Agentic AI**, **Backend Development**, and **LLM application pipelines**.
+- 🤝 Open to collaborations on **Full-Stack**, **AI/ML**, or **GenAI-based projects**.
+- 💬 Always happy to connect and share knowledge — let’s innovate together!
+
+---
 
 ## ✨ Featured Projects
 
 | Project | Description | Technologies Used |
 |---|---|---|
-| **[Movie-Recommendation](https://github.com/tirth-patel06/Movie-Recommendation)** | Full-stack AI-powered movie recommendation app using NLP and cosine similarity. | `React`, `FastAPI`, `Scikit-learn`, `NLP` |
-| **[DoodleVision](https://github.com/tirth-patel06/DoodleVision)** | A Marker-Based Path Extraction System designed for an Autonomous Drawing Bot. | `Python`, `OpenCV` |
-| **[Agentic-Ai-demo](https://github.com/tirth-patel06/Agentic-Ai-demo)** | A project to deploy tasks for the annual project of the MNNIT Robotics Club. | `Python`, `AI` |
-| **[Trim-Ahead](https://github.com/tirth-patel06/Trim-Ahead)** | My first frontend project, a simple and clean UI built from scratch. | `HTML`, `CSS`, `JavaScript` |
+| **[Alchemist’s Grimoire (Insight-X)](https://github.com/tirth-patel06/Alchemist-Grimorie)** | AI-powered medication adherence platform integrating multi-agent assistants, PDF health report analysis, and Google Calendar sync. | `React`, `Node.js`, `Express.js`, `MongoDB`, `LangChain`, `Groq API (Llama LLMs)`, `Socket.IO`, `FastAPI`, `OAuth2` |
+| **[Movie-Recommendation](https://github.com/tirth-patel06/Movie-Recommendation)** | Full-stack ML-powered movie recommendation system using NLP and cosine similarity. | `React`, `FastAPI`, `Scikit-learn`, `NLP`, `TMDb API` |
+| **[Agentic-AI-Demo](https://github.com/tirth-patel06/Agentic-Ai-demo)** | Prototype for multi-agent collaboration and intelligent task automation under MNNIT Robotics Club. | `Python`, `LangChain`, `AI Agents` |
+| **[Trim-Ahead](https://github.com/tirth-patel06/Trim-Ahead)** | My first frontend project — a lightweight blog-style UI built from scratch. | `HTML`, `CSS`, `JavaScript` |
 
+---
 
 ## 💻 Tech Stack
 
@@ -48,28 +51,31 @@
 ### 🌐 Backend & APIs
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Uvicorn](https://img.shields.io/badge/uvicorn-black?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=python&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq%20API-FF4F00?style=for-the-badge&logo=groq&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white)
 
 ### 🤖 Machine Learning & NLP
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
 ![NLTK](https://img.shields.io/badge/nltk-%2300A67E.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🚀 Deployment & Cloud
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-%234433FF.svg?style=for-the-badge&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Dropbox](https://img.shields.io/badge/dropbox-cloud-blue?style=for-the-badge&logo=dropbox&logoColor=white)
 
-### 🧰 Tools & Design
+### 🧰 Tools & Workflow
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
