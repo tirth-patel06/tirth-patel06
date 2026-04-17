@@ -110,28 +110,24 @@ I’m **Tirth Patel**, a driven B.Tech student at **Motilal Nehru National Insti
 <div align="center">
 
 ### When I'm not coding… 🎯
+## 🏎️ Fun Zone
+
+<div align="center">
+
+### When I'm not coding… 🏁
 
 ```ascii
-             /\            
-            /  \      🚀  
-           /----\          
-          /      \         
-         /  /\    \        
-        /__/  \____\       
-       |   MERN &   |      
-       | GenAI / CP |      
-       |____________|      
-        \          /       
-         \________/        
-           ||   ||         
-           ||   ||         
-           ||   ||         
-          /__\ /__\        
-     🔥🔥🔥🔥🔥🔥🔥🔥
-
-🤖 Exploring Code, ML/NLP & New Tech Horizons 🤖
+                                                               
+                        ______                                 
+                       /|_||_\`.__                             
+                      (   _    _ _\                            
+                      =`-(_)--(_)-'                            
+                                                               
+🏎️ Trading server latency for track sector times! 🏎️
 ```
-### 💬 "Code is like humor. When you have to explain it, it’s bad." — Cory House
+When I’m not pulling an all-nighter for a project or stressing over midsems, I’m glued to F1. Honestly, trying to figure out Ferrari's race strategy is harder than debugging my code. Perfect weekend? No pending assignments on Friday and a chaotic race on Sunday!
+
+### 💬 "Code is like an F1 car. When it's perfectly tuned, it’s blazingly fast. When it’s not, you're just spinning out in the gravel."
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=tirth-patel06&label=Profile%20views&color=0e75b6&style=flat" alt="tirth-patel06" /> </p> -->
 <div align="center">
