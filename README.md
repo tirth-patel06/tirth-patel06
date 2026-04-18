@@ -105,16 +105,13 @@ I’m **Tirth Patel**, a driven B.Tech student at **Motilal Nehru National Insti
 
 ---
 
-## 🤖 Fun Zone
-
-<div align="center">
-
-### When I'm not coding… 🎯
 ## 🏎️ Fun Zone
 
 <div align="center">
 
 ### When I'm not coding… 🏁
+
+When I’m not pulling an all-nighter for a project or stressing over midsems, I’m glued to F1. Honestly, trying to figure out Ferrari's race strategy is harder than debugging my code. Perfect weekend? No pending assignments on Friday and a chaotic race on Sunday!
 
 ```ascii
                                                                
@@ -125,7 +122,6 @@ I’m **Tirth Patel**, a driven B.Tech student at **Motilal Nehru National Insti
                                                                
 🏎️ Trading server latency for track sector times! 🏎️
 ```
-When I’m not pulling an all-nighter for a project or stressing over midsems, I’m glued to F1. Honestly, trying to figure out Ferrari's race strategy is harder than debugging my code. Perfect weekend? No pending assignments on Friday and a chaotic race on Sunday!
 
 ### 💬 "Code is like an F1 car. When it's perfectly tuned, it’s blazingly fast. When it’s not, you're just spinning out in the gravel."
 
