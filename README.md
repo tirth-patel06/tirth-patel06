@@ -172,12 +172,12 @@ I’m **Tirth Patel**, an undergraduate engineering student at **Motilal Nehru N
   <!-- Row 1: Overall Stats & Streak (Using reliable endpoints) -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth-patel06&theme=tokyonight" alt="GitHub Stats" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=tirth-patel06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth-patel06&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
+  <img height="168em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth-patel06&theme=tokyonight" alt="Top Languages" />
   <!-- Row 2: Full-Width Contribution Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tirth-patel06&theme=tokyo-night&hide_border=true&area=true&custom_title=Tirth's%20Contribution%20Telemetry" alt="Contribution Graph" />
+  <img width="47%" src="https://github-readme-activity-graph.vercel.app/graph?username=tirth-patel06&theme=tokyo-night&hide_border=true&area=true&custom_title=Tirth's%20Contribution%20Telemetry" alt="Contribution Graph" />
 </div>
 
 ---
