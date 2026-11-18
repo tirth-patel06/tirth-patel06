@@ -177,7 +177,7 @@ I’m **Tirth Patel**, an undergraduate engineering student at **Motilal Nehru N
 <div align="center">
   <img height="168em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth-patel06&theme=tokyonight" alt="Top Languages" />
   <!-- Row 2: Full-Width Contribution Activity Graph -->
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=tirth-patel06&theme=tokyo-night&hide_border=true&area=true&custom_title=Tirth's%20Contribution%20Telemetry" alt="Contribution Graph" />
+  <img height="168em" src="https://github-readme-activity-graph.vercel.app/graph?username=tirth-patel06&theme=tokyo-night&hide_border=true&area=true&custom_title=Tirth's%20Contribution%20Telemetry" alt="Contribution Graph" />
 </div>
 
 ---
